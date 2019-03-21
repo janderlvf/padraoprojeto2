@@ -14,7 +14,7 @@ public class Principal {
 		
 		GeradorArquivo1 gerador1 = new GeradorArquivo1();
 		gerador1.gerarArquivo("c:\\Gerador\\XML.zip", mapa, "XML_COMPACTADO");
-				
+		//teste de novo
 	}
 
 }
